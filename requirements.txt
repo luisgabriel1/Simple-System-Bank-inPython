@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+databases
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+email-validator
+python-decouple
+loguru
+pytest
+httpx
