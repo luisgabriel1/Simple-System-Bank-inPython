@@ -2,7 +2,7 @@
 # Transferencia Padrão (TED, DOC)
 # numero de conta e agencia / verificar saldo da conta
 
-from models.loadingTime import loadingTime, loadingconferindoDados, loadingTransferencia
+from utils.loadingTime import loadingTime, loadingconferindoDados, loadingTransferencia
 from functionConta import saldo
 from doc_ted import doc, ted
 from routes import routesTransferencia, routesErro
